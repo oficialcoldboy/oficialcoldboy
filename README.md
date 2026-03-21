@@ -7,20 +7,16 @@ Misturo criatividade artística com tecnologia para otimizar a experiência de j
 🛠️ No que eu trabalho:
 
 [Bind Generator]: Uma ferramenta para criar scripts de binds complexos de forma visual e simples.
+https://oficialcoldboy.github.io/bind-generator/
 
-[Crosshair Converter]: Converta suas miras entre diferentes jogos sem perder a precisão.
-
-Configurações de Autoexec: Scripts otimizados para ganho de performance e utilitários de treino.
-
-Audiovisual: Produção de beats e conteúdos visuais para a cena underground.
+[Crosshair Converter]: Converta Códigos de Mira do CS2 em comandos para a sua CFG 
+https://oficialcoldboy.github.io/crosshair-converter/
 
 🚀 Tecnologias e Ferramentas:
 
 📫 Contato & Links:
 
-Email: contato.coldboy@gmail.com
-
-Linktree: linktr.ee/coldboyoficial
+Linktree: https://linktr.ee/coldboyoficial
 
 Label: Cold Label
 
