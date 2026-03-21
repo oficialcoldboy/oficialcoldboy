@@ -1,16 +1,34 @@
-## Hi there 👋
+Olá, eu sou o @oficialcoldboy! 👋
 
-<!--
-**oficialcoldboy/oficialcoldboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Rapper, Produtor Audiovisual & Desenvolvedor de Ferramentas para Games
 
-Here are some ideas to get you started:
+Misturo criatividade artística com tecnologia para otimizar a experiência de jogo. Meu foco é criar utilitários práticos para comunidades de jogos como CS2, Valorant e scripts de automação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ No que eu trabalho:
+
+[Bind Generator]: Uma ferramenta para criar scripts de binds complexos de forma visual e simples.
+
+[Crosshair Converter]: Converta suas miras entre diferentes jogos sem perder a precisão.
+
+Configurações de Autoexec: Scripts otimizados para ganho de performance e utilitários de treino.
+
+Audiovisual: Produção de beats e conteúdos visuais para a cena underground.
+
+🚀 Tecnologias e Ferramentas:
+
+📊 Estatísticas:
+
+<p align="left">
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Doficialcoldboy%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
+<img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Doficialcoldboy%26layout%3Dcompact%26langs_count%3D7%26theme%3Dtokyonight"/>
+</p>
+
+📫 Contato & Links:
+
+Email: contato.coldboy@gmail.com
+
+Linktree: linktr.ee/coldboyoficial
+
+Label: Cold Label
+
+“A melhor bind é aquela que você não precisa pensar para usar.”
