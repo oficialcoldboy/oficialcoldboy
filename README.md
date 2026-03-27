@@ -1,7 +1,6 @@
-# [System.Online] — Coldboy999 ❄️
+# [System.Online]❄️
 
 Rapper, Designer & Audiovisual. 🎧🎨
-Cena: Trap, Hard Trap, Emo Rap & Hip Hop Brasileiro.
 
 ---
 
