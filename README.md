@@ -26,9 +26,9 @@ Cena: Trap, Hard Trap, Emo Rap & Hip Hop Brasileiro.
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
-| **Bind Generator** | Criador de binds otimizadas para Counter-Strike 2. | [View Repo](#) |
-| **Crosshair Converter** | Ferramenta para conversão de miras entre versões do CS. | [View Repo](#) |
-| **Audiovisual Portfolio** | Trabalhos de edição, direção de arte e capas de singles. | [View Behance](#) |
+| **Bind Generator** | Criador de binds otimizadas para Counter-Strike 2. | [View Repo](https://github.com/oficialcoldboy/bind-generator) |
+| **Crosshair Converter** | Ferramenta para conversão de miras entre versões do CS. | [View Repo](https://github.com/oficialcoldboy/crosshair-converter) |
+| **Audiovisual Portfolio** | Trabalhos de edição, direção de arte e capas de singles. | [View Behance](https://linktr.ee/Coldboyoficial) |
 
 ---
 
