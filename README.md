@@ -1,5 +1,4 @@
 Rapper, Designer & Audiovisual
-Atuando com **Audiovisual & Web Dev** freelancer.
 
 ### 🛠️ Tech Stack & Skills
 - **Frontend:** HTML5, CSS3, JavaScript.
