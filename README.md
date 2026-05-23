@@ -1,5 +1,4 @@
-Rapper, Designer & Audiovisual.
-Consolidando a marca **Coldboy999** na cena do Trap.
+Rapper, Designer & Audiovisual
 Atuando com **Audiovisual & Web Dev** freelancer.
 
 ### 🛠️ Tech Stack & Skills
